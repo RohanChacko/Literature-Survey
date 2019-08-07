@@ -78,3 +78,4 @@ Research paper readings &amp; summaries | CVIT 2019
 ## To Read
 - [ ] Single-Shot Multi-Person 3D Pose Estimation From Monocular RGB [PDF](https://arxiv.org/pdf/1712.03453.pdf)
 - [ ] Efficient Backprop [PDF](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
+- [ ] Stylizing Video by Example [Site](https://dcgi.fel.cvut.cz/home/sykorad/ebsynth.html) [PDF](https://dcgi.fel.cvut.cz/home/sykorad/Jamriska19-SIG.pdf)
