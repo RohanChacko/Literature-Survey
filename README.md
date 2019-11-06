@@ -75,7 +75,7 @@ Research paper readings &amp; summaries | CVIT 2019
 
 * 3D Scene Reconstruction with Multi-layer Depth and Epipolar Transformers [PDF]
 (https://arxiv.org/pdf/1902.06729v2.pdf)
- * UC Irvine, Georgia Tech **ICCV 2019**
+  * UC Irvine, Georgia Tech **ICCV 2019**
 
 ## To Read
 - [ ] Single-Shot Multi-Person 3D Pose Estimation From Monocular RGB [PDF](https://arxiv.org/pdf/1712.03453.pdf)
