@@ -73,7 +73,9 @@ Research paper readings &amp; summaries | CVIT 2019
 * DeepPose: Human Pose Estimation via Deep Neural Networks [PDF](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42237.pdf)
   * Google AI **CVPR 2014**
 
-
+* 3D Scene Reconstruction with Multi-layer Depth and Epipolar Transformers [PDF]
+(https://arxiv.org/pdf/1902.06729v2.pdf)
+ * UC Irvine, Georgia Tech **ICCV 2019**
 
 ## To Read
 - [ ] Single-Shot Multi-Person 3D Pose Estimation From Monocular RGB [PDF](https://arxiv.org/pdf/1712.03453.pdf)
