@@ -1,7 +1,7 @@
 # Literature-Survey
 Research paper readings &amp; summaries | CVIT 2019
 
-## Relevant papers
+## 3D Reconstruction/Learning
 
 * Expressive Body Capture: 3D Hands, Face, and Body from a Single Image
 [PDF](https://arxiv.org/pdf/1904.05866.pdf)
@@ -76,6 +76,10 @@ Research paper readings &amp; summaries | CVIT 2019
 * 3D Scene Reconstruction with Multi-layer Depth and Epipolar Transformers [PDF]
 (https://arxiv.org/pdf/1902.06729v2.pdf)
   * UC Irvine, Georgia Tech **ICCV 2019**
+
+## Interesting Papers
+
+* What’s Hidden in a Randomly Weighted Neural Network? [PDF](https://arxiv.org/pdf/1911.13299.pdf)
 
 ## To Read
 - [ ] Single-Shot Multi-Person 3D Pose Estimation From Monocular RGB [PDF](https://arxiv.org/pdf/1712.03453.pdf)
