@@ -76,6 +76,9 @@ Research paper readings &amp; summaries | CVIT 2019
 * 3D Scene Reconstruction with Multi-layer Depth and Epipolar Transformers [PDF]
 (https://arxiv.org/pdf/1902.06729v2.pdf)
   * UC Irvine, Georgia Tech **ICCV 2019**
+ 
+* "Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop [PDF](https://arxiv.org/pdf/1909.12828.pdf)
+  * Michael Black et al, **ICCV 2019** 
 
 ## Interesting Papers
 
