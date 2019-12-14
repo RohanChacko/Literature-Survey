@@ -73,11 +73,10 @@ Research paper readings &amp; summaries | CVIT 2019
 * DeepPose: Human Pose Estimation via Deep Neural Networks [PDF](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42237.pdf)
   * Google AI **CVPR 2014**
 
-* 3D Scene Reconstruction with Multi-layer Depth and Epipolar Transformers [PDF]
-(https://arxiv.org/pdf/1902.06729v2.pdf)
+* 3D Scene Reconstruction with Multi-layer Depth and Epipolar Transformers [PDF](https://arxiv.org/pdf/1902.06729v2.pdf)
   * UC Irvine, Georgia Tech **ICCV 2019**
  
-* "Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop [PDF](https://arxiv.org/pdf/1909.12828.pdf)
+* Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop [PDF](https://arxiv.org/pdf/1909.12828.pdf)
   * Michael Black et al, **ICCV 2019** 
 
 ## Interesting Papers
