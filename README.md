@@ -78,6 +78,9 @@ Research paper readings &amp; summaries | CVIT 2019
  
 * Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop [PDF](https://arxiv.org/pdf/1909.12828.pdf)
   * Michael Black et al, **ICCV 2019** 
+  
+* What Do Single-view 3D Reconstruction Networks Learn? [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tatarchenko_What_Do_Single-View_3D_Reconstruction_Networks_Learn_CVPR_2019_paper.pdf)
+  * University of Freiburg & Intel Labs, **CVPR 2019** 
 
 ## Interesting Papers
 
