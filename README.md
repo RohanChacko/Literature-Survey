@@ -90,3 +90,4 @@ Research paper readings &amp; summaries | CVIT 2019
 - [ ] Single-Shot Multi-Person 3D Pose Estimation From Monocular RGB [PDF](https://arxiv.org/pdf/1712.03453.pdf)
 - [ ] Efficient Backprop [PDF](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 - [ ] Stylizing Video by Example [Site](https://dcgi.fel.cvut.cz/home/sykorad/ebsynth.html) [PDF](https://dcgi.fel.cvut.cz/home/sykorad/Jamriska19-SIG.pdf)
+- [ ] Photometric Mesh Optimization for Video-Aligned 3D Object Reconstruction [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lin_Photometric_Mesh_Optimization_for_Video-Aligned_3D_Object_Reconstruction_CVPR_2019_paper.pdf)
