@@ -1,5 +1,5 @@
 # Literature-Survey
-Research paper readings &amp; summaries | CVIT 2019
+Research paper readings &amp; summaries 
 
 ## 3D Reconstruction/Learning
 
@@ -82,6 +82,9 @@ Research paper readings &amp; summaries | CVIT 2019
 * What Do Single-view 3D Reconstruction Networks Learn? [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tatarchenko_What_Do_Single-View_3D_Reconstruction_Networks_Learn_CVPR_2019_paper.pdf)
   * University of Freiburg & Intel Labs, **CVPR 2019** 
 
+* Exploiting temporal context for 3D human pose estimation in the wild [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Arnab_Exploiting_Temporal_Context_for_3D_Human_Pose_Estimation_in_the_CVPR_2019_paper.pdf)
+  * Zisserman et al, **CVPR 2019**
+  
 ## Interesting Papers
 
 * What’s Hidden in a Randomly Weighted Neural Network? [PDF](https://arxiv.org/pdf/1911.13299.pdf)
