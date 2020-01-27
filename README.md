@@ -94,4 +94,4 @@ Research paper readings &amp; summaries
 - [ ] Efficient Backprop [PDF](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 - [ ] Stylizing Video by Example [Site](https://dcgi.fel.cvut.cz/home/sykorad/ebsynth.html) [PDF](https://dcgi.fel.cvut.cz/home/sykorad/Jamriska19-SIG.pdf)
 - [ ] Photometric Mesh Optimization for Video-Aligned 3D Object Reconstruction [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lin_Photometric_Mesh_Optimization_for_Video-Aligned_3D_Object_Reconstruction_CVPR_2019_paper.pdf)
-- [] 3D Shape Reconstruction from Images in the Frequency Domain [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shen_3D_Shape_Reconstruction_From_Images_in_the_Frequency_Domain_CVPR_2019_paper.pdf)
+- [ ] 3D Shape Reconstruction from Images in the Frequency Domain [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shen_3D_Shape_Reconstruction_From_Images_in_the_Frequency_Domain_CVPR_2019_paper.pdf)
